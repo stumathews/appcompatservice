@@ -1,0 +1,8 @@
+//
+// Prefix header for all source files of the 'AppCompatService' target in the 'AppCompatService' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+    #import <UIKit/UIKit.h>
+#endif
